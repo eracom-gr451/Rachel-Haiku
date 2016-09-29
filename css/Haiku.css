@@ -1,0 +1,16 @@
+body {
+	font-family:Amiri, Regular;
+	font-size: 40px;
+	color:#2f2870;
+	width:300px;
+	height: 1000px;
+	margin:50px;
+	background-color:#e4cec3;
+}
+
+
+	fieldset {
+  border: 0px solid;
+  margin: 90px;
+  padding: 200px 100px 10px;
+
